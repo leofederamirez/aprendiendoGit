@@ -1,3 +1,5 @@
 Hola este va a ser  mi primer repositorio con Git.
 
-Me nombre es Leandro Ramirez y soy autodidacta.
+Mi nombre es Leandro Ramirez y soy autodidacta.
+
+tengo 28 años y soy de Uruguay.
