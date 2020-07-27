@@ -1,1 +1,3 @@
 Hola este va a ser  mi primer repositorio con Git.
+
+Me nombre es Leandro Ramirez y soy autodidacta.
