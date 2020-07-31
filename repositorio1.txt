@@ -2,4 +2,8 @@ Hola este va a ser  mi primer repositorio con Git.
 
 Mi nombre es Leandro Ramirez y soy autodidacta.
 
-tengo 28 años y soy de Uruguay.
+Tengo 28 años y soy de Uruguay.
+
+git reset 'numero del commit' --hard o --soft
+git checkout + 'nombre de rama' = migro asia la rama nombrada.
+git -am 'mensaje' = git add, git commit 'mensaje' (solo funciona con los archivos antes creados)
