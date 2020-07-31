@@ -4,6 +4,9 @@ Mi nombre es Leandro Ramirez y soy autodidacta.
 
 Tengo 28 años y soy de Uruguay.
 
+git branch = me muestra todas las ramas creadas.
 git reset 'numero del commit' --hard o --soft
-git checkout + 'nombre de rama' = migro asia la rama nombrada.
-git -am 'mensaje' = git add, git commit 'mensaje' (solo funciona con los archivos antes creados)
+git checkout + 'nombre de rama' = cambio a la rama nombrada.
+git -am 'mensaje' = git add, git commit 'mensaje' (solo funciona con los archivos antes creados).
+git alias (cualquier nombre)= (comando de git que quiero abreviar).
+git show-brnach => me muestra las ramas y su historia.
