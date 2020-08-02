@@ -1,5 +1,7 @@
 body{
     text-align: center;
+    margin: 0;
+    padding: 0;
 }
 .container{
     border: solid 2px black;
@@ -20,12 +22,11 @@ p{
     padding: 10px 20%;
     font-family: Arial, Helvetica, sans-serif;
 }
-.nav{
-    background-color: darkcyan;
-    text-align: center;
-    font-size: 1.3em;
+footer{
+    background-color: cadetblue;
+    text-align: end;
     color: white;
 }
-h1{
+h5{
     margin: 0;
 }
