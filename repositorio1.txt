@@ -3,8 +3,11 @@ Hola este va a ser  mi primer repositorio con Git.
 Mi nombre es Leandro Ramirez y soy autodidacta.
 
 Tengo 28 años y soy de Uruguay.
-
+git rm --cached + 'nombre del archivo' = remueve el archivo de la memoria ram pero no del directorio solo borra el "git add"
 git branch = me muestra todas las ramas creadas.
+git commit -m(mensaje"") = envia los cambios guardados al repocitorio local de git.
+cat + 'nombre de archivo'  = me muestra el contenido del archivo.
+git log = me muestra todo cos commits echos.
 git reset 'numero del commit' --hard o --soft
 git checkout + 'nombre de rama' = cambio a la rama nombrada.
 git -am 'mensaje' = git add, git commit 'mensaje' (solo funciona con los archivos antes creados).
