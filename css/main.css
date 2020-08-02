@@ -1,5 +1,7 @@
 body{
     text-align: center;
+    margin: 0;
+    padding: 0;
 }
 .container{
     border: solid 2px black;
@@ -19,4 +21,12 @@ p{
     font-size: 1.3em;
     padding: 10px 20%;
     font-family: Arial, Helvetica, sans-serif;
+}
+footer{
+    background-color: cadetblue;
+    text-align: end;
+    color: white;
+}
+h5{
+    margin: 0;
 }
