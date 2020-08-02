@@ -1,8 +1,7 @@
 Hola este va a ser  mi primer repositorio con Git.
-
 Mi nombre es Leandro Ramirez y soy autodidacta.
-
 Tengo 28 años y soy de Uruguay.
+
 git rm --cached + 'nombre del archivo' = remueve el archivo de la memoria ram pero no del directorio solo borra el "git add"
 git branch = me muestra todas las ramas creadas.
 git commit -m(mensaje"") = envia los cambios guardados al repocitorio local de git.
@@ -16,4 +15,10 @@ git show-brnach => me muestra las ramas y su historia.
 git push + 'nombre del repositorio remoto `ej: origin`'+ rama = enviar los cambios al repositorio remoto.
 git pull + 'nombre del repositorio remoto `ej: origin`' + rama = traer los archivos del repositorio remoto
 git show-branch --all = me muestra todas las ramas con las cueles estoy trabajando.
+git tag = te muestra los tag guardados.
+git show-ref --tags = me muestra los tag y a que comit estan asociados.
+git tag -d "nombre del tag" = borrraa el tag
+git push origin --tags = guarda los tags en remoto.
+git push origin :refs/tags/nombre del tag. = borra los tags de remoto.
+
 
