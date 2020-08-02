@@ -10,3 +10,7 @@ git checkout + 'nombre de rama' = cambio a la rama nombrada.
 git -am 'mensaje' = git add, git commit 'mensaje' (solo funciona con los archivos antes creados).
 git alias (cualquier nombre)= (comando de git que quiero abreviar).
 git show-brnach => me muestra las ramas y su historia.
+git push + 'nombre del repositorio remoto `ej: origin`'+ rama = enviar los cambios al repositorio remoto.
+git pull + 'nombre del repositorio remoto `ej: origin`' + rama = traer los archivos del repositorio remoto
+git show-branch --all = me muestra todas las ramas con las cueles estoy trabajando.
+
