@@ -20,3 +20,12 @@ p{
     padding: 10px 20%;
     font-family: Arial, Helvetica, sans-serif;
 }
+.nav{
+    background-color: darkcyan;
+    text-align: center;
+    font-size: 1.3em;
+    color: white;
+}
+h1{
+    margin: 0;
+}
